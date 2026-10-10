@@ -1,0 +1,5 @@
+# Base44 Streets - game set
+set	Base44 Streets
+skiptoset	0
+file	data/levels/street1.txt
+end

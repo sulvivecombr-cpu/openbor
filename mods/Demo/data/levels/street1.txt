@@ -1,0 +1,16 @@
+# Street 1 - first stage
+background	data/bgs/street
+bgspeed	0
+z	160 232 200
+settime	300
+type	0
+spawn1	15
+spawn2	305
+
+spawn	goon
+coords	260 200
+at	0
+
+spawn	goon
+coords	290 180
+at	180

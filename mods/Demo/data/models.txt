@@ -1,0 +1,7 @@
+# Base44 Streets - module settings
+maxattacks	2
+
+setselectdata	data/chars/base/hero.txt
+
+load	data/chars/base/hero.txt	hero
+load	data/chars/base/goon.txt	goon

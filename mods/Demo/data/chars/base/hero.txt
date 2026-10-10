@@ -1,0 +1,56 @@
+name	Hero
+type	player
+health	100
+mp	100
+speed	14
+shadow	1
+icon	data/chars/base/hero_icon.png
+
+anim	idle
+	loop	1 0 1
+	delay	10
+	offset	16 39
+	bbox	8 12 16 26
+	frame	data/chars/base/hero_idle0.png
+	frame	data/chars/base/hero_idle1.png
+
+anim	walk
+	loop	1 0 3
+	delay	8
+	offset	16 39
+	bbox	8 12 16 26
+	frame	data/chars/base/hero_walk0.png
+	frame	data/chars/base/hero_walk1.png
+	frame	data/chars/base/hero_walk2.png
+	frame	data/chars/base/hero_walk3.png
+
+anim	attack1
+	range	0 60
+	delay	5
+	offset	16 39
+	frame	data/chars/base/hero_atk0.png
+	delay	4
+	frame	data/chars/base/hero_atk1.png
+	attack1	20 12 24 22 15 1 1 1 0 0
+	delay	8
+	frame	data/chars/base/hero_atk2.png
+
+anim	pain
+	delay	12
+	offset	16 39
+	frame	data/chars/base/hero_pain.png
+
+anim	fall
+	delay	100
+	offset	16 39
+	frame	data/chars/base/hero_fall.png
+
+anim	rise
+	delay	6
+	offset	16 39
+	frame	data/chars/base/hero_idle0.png
+
+anim	death
+	delay	100
+	offset	16 39
+	frame	data/chars/base/hero_death.png
