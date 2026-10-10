@@ -1,0 +1,16 @@
+services:
+  build:
+    image: debian:trixie-slim
+    working_dir: /workspace
+    volumes:
+      - .:/workspace
+    command: >
+      sh -ec "
+        apt-get update &&
+        apt-get install -y --no-install-recommends cmake build-essential git libsdl2-dev libvorbis-dev libpng-dev libvpx-dev &&
+        rm -rf build.lin.amd64 &&
+        cmake -DBUILD_LINUX=ON -DTARGET_ARCH=AMD64 -DCMAKE_BUILD_TYPE=Release -S . -B build.lin.amd64 &&
+        cmake --build build.lin.amd64 --config Release -- -j$$(nproc) &&
+        echo 'BUILD SUCCESSFUL' &&
+        ls -la engine/releases/LINUX/
+      "

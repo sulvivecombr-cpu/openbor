@@ -1,0 +1,632 @@
+[
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/openbor.c.o -c /workspace/engine/openbor.c",
+  "file": "/workspace/engine/openbor.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/openbor.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/openborscript.c.o -c /workspace/engine/openborscript.c",
+  "file": "/workspace/engine/openborscript.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/openborscript.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/gamelib/anigif.c.o -c /workspace/engine/source/gamelib/anigif.c",
+  "file": "/workspace/engine/source/gamelib/anigif.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/gamelib/anigif.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/gamelib/bitmap.c.o -c /workspace/engine/source/gamelib/bitmap.c",
+  "file": "/workspace/engine/source/gamelib/bitmap.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/gamelib/bitmap.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/gamelib/draw.c.o -c /workspace/engine/source/gamelib/draw.c",
+  "file": "/workspace/engine/source/gamelib/draw.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/gamelib/draw.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/gamelib/draw16.c.o -c /workspace/engine/source/gamelib/draw16.c",
+  "file": "/workspace/engine/source/gamelib/draw16.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/gamelib/draw16.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/gamelib/draw32.c.o -c /workspace/engine/source/gamelib/draw32.c",
+  "file": "/workspace/engine/source/gamelib/draw32.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/gamelib/draw32.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/gamelib/filecache.c.o -c /workspace/engine/source/gamelib/filecache.c",
+  "file": "/workspace/engine/source/gamelib/filecache.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/gamelib/filecache.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/gamelib/filters.c.o -c /workspace/engine/source/gamelib/filters.c",
+  "file": "/workspace/engine/source/gamelib/filters.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/gamelib/filters.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/gamelib/font.c.o -c /workspace/engine/source/gamelib/font.c",
+  "file": "/workspace/engine/source/gamelib/font.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/gamelib/font.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/gamelib/loadimg.c.o -c /workspace/engine/source/gamelib/loadimg.c",
+  "file": "/workspace/engine/source/gamelib/loadimg.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/gamelib/loadimg.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/gamelib/models.c.o -c /workspace/engine/source/gamelib/models.c",
+  "file": "/workspace/engine/source/gamelib/models.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/gamelib/models.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/gamelib/packfile.c.o -c /workspace/engine/source/gamelib/packfile.c",
+  "file": "/workspace/engine/source/gamelib/packfile.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/gamelib/packfile.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/gamelib/packfile_handle.c.o -c /workspace/engine/source/gamelib/packfile_handle.c",
+  "file": "/workspace/engine/source/gamelib/packfile_handle.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/gamelib/packfile_handle.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/gamelib/palette.c.o -c /workspace/engine/source/gamelib/palette.c",
+  "file": "/workspace/engine/source/gamelib/palette.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/gamelib/palette.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/gamelib/pixelformat.c.o -c /workspace/engine/source/gamelib/pixelformat.c",
+  "file": "/workspace/engine/source/gamelib/pixelformat.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/gamelib/pixelformat.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/gamelib/screen.c.o -c /workspace/engine/source/gamelib/screen.c",
+  "file": "/workspace/engine/source/gamelib/screen.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/gamelib/screen.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/gamelib/screen16.c.o -c /workspace/engine/source/gamelib/screen16.c",
+  "file": "/workspace/engine/source/gamelib/screen16.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/gamelib/screen16.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/gamelib/screen32.c.o -c /workspace/engine/source/gamelib/screen32.c",
+  "file": "/workspace/engine/source/gamelib/screen32.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/gamelib/screen32.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/gamelib/sound_channel.c.o -c /workspace/engine/source/gamelib/sound_channel.c",
+  "file": "/workspace/engine/source/gamelib/sound_channel.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/gamelib/sound_channel.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/gamelib/sound_stream.c.o -c /workspace/engine/source/gamelib/sound_stream.c",
+  "file": "/workspace/engine/source/gamelib/sound_stream.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/gamelib/sound_stream.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/gamelib/soundmix.c.o -c /workspace/engine/source/gamelib/soundmix.c",
+  "file": "/workspace/engine/source/gamelib/soundmix.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/gamelib/soundmix.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/gamelib/sprite.c.o -c /workspace/engine/source/gamelib/sprite.c",
+  "file": "/workspace/engine/source/gamelib/sprite.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/gamelib/sprite.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/gamelib/spriteq.c.o -c /workspace/engine/source/gamelib/spriteq.c",
+  "file": "/workspace/engine/source/gamelib/spriteq.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/gamelib/spriteq.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/gamelib/spritex8p16.c.o -c /workspace/engine/source/gamelib/spritex8p16.c",
+  "file": "/workspace/engine/source/gamelib/spritex8p16.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/gamelib/spritex8p16.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/gamelib/spritex8p32.c.o -c /workspace/engine/source/gamelib/spritex8p32.c",
+  "file": "/workspace/engine/source/gamelib/spritex8p32.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/gamelib/spritex8p32.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/gamelib/transform.c.o -c /workspace/engine/source/gamelib/transform.c",
+  "file": "/workspace/engine/source/gamelib/transform.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/gamelib/transform.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/gamelib/translation.c.o -c /workspace/engine/source/gamelib/translation.c",
+  "file": "/workspace/engine/source/gamelib/translation.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/gamelib/translation.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/omath.c.o -c /workspace/engine/source/omath.c",
+  "file": "/workspace/engine/source/omath.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/omath.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/openborscript/animation.c.o -c /workspace/engine/source/openborscript/animation.c",
+  "file": "/workspace/engine/source/openborscript/animation.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/openborscript/animation.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/openborscript/audio.c.o -c /workspace/engine/source/openborscript/audio.c",
+  "file": "/workspace/engine/source/openborscript/audio.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/openborscript/audio.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/openborscript/axis.c.o -c /workspace/engine/source/openborscript/axis.c",
+  "file": "/workspace/engine/source/openborscript/axis.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/openborscript/axis.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/openborscript/binding.c.o -c /workspace/engine/source/openborscript/binding.c",
+  "file": "/workspace/engine/source/openborscript/binding.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/openborscript/binding.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/openborscript/collision_attack.c.o -c /workspace/engine/source/openborscript/collision_attack.c",
+  "file": "/workspace/engine/source/openborscript/collision_attack.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/openborscript/collision_attack.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/openborscript/collision_body.c.o -c /workspace/engine/source/openborscript/collision_body.c",
+  "file": "/workspace/engine/source/openborscript/collision_body.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/openborscript/collision_body.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/openborscript/colorset.c.o -c /workspace/engine/source/openborscript/colorset.c",
+  "file": "/workspace/engine/source/openborscript/colorset.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/openborscript/colorset.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/openborscript/command_input.c.o -c /workspace/engine/source/openborscript/command_input.c",
+  "file": "/workspace/engine/source/openborscript/command_input.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/openborscript/command_input.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/openborscript/commands.c.o -c /workspace/engine/source/openborscript/commands.c",
+  "file": "/workspace/engine/source/openborscript/commands.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/openborscript/commands.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/openborscript/common_property.c.o -c /workspace/engine/source/openborscript/common_property.c",
+  "file": "/workspace/engine/source/openborscript/common_property.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/openborscript/common_property.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/openborscript/constants.c.o -c /workspace/engine/source/openborscript/constants.c",
+  "file": "/workspace/engine/source/openborscript/constants.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/openborscript/constants.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/openborscript/datetime.c.o -c /workspace/engine/source/openborscript/datetime.c",
+  "file": "/workspace/engine/source/openborscript/datetime.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/openborscript/datetime.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/openborscript/drawmethod.c.o -c /workspace/engine/source/openborscript/drawmethod.c",
+  "file": "/workspace/engine/source/openborscript/drawmethod.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/openborscript/drawmethod.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/openborscript/entity.c.o -c /workspace/engine/source/openborscript/entity.c",
+  "file": "/workspace/engine/source/openborscript/entity.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/openborscript/entity.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/openborscript/faction.c.o -c /workspace/engine/source/openborscript/faction.c",
+  "file": "/workspace/engine/source/openborscript/faction.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/openborscript/faction.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/openborscript/flash.c.o -c /workspace/engine/source/openborscript/flash.c",
+  "file": "/workspace/engine/source/openborscript/flash.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/openborscript/flash.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/openborscript/global_config.c.o -c /workspace/engine/source/openborscript/global_config.c",
+  "file": "/workspace/engine/source/openborscript/global_config.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/openborscript/global_config.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/openborscript/icon.c.o -c /workspace/engine/source/openborscript/icon.c",
+  "file": "/workspace/engine/source/openborscript/icon.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/openborscript/icon.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/openborscript/index.c.o -c /workspace/engine/source/openborscript/index.c",
+  "file": "/workspace/engine/source/openborscript/index.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/openborscript/index.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/openborscript/layer.c.o -c /workspace/engine/source/openborscript/layer.c",
+  "file": "/workspace/engine/source/openborscript/layer.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/openborscript/layer.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/openborscript/level.c.o -c /workspace/engine/source/openborscript/level.c",
+  "file": "/workspace/engine/source/openborscript/level.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/openborscript/level.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/openborscript/math.c.o -c /workspace/engine/source/openborscript/math.c",
+  "file": "/workspace/engine/source/openborscript/math.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/openborscript/math.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/openborscript/model.c.o -c /workspace/engine/source/openborscript/model.c",
+  "file": "/workspace/engine/source/openborscript/model.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/openborscript/model.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/openborscript/movie.c.o -c /workspace/engine/source/openborscript/movie.c",
+  "file": "/workspace/engine/source/openborscript/movie.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/openborscript/movie.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/openborscript/recursive_effect.c.o -c /workspace/engine/source/openborscript/recursive_effect.c",
+  "file": "/workspace/engine/source/openborscript/recursive_effect.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/openborscript/recursive_effect.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/openborscript/spawn_hud.c.o -c /workspace/engine/source/openborscript/spawn_hud.c",
+  "file": "/workspace/engine/source/openborscript/spawn_hud.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/openborscript/spawn_hud.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/openborscript/status_dial.c.o -c /workspace/engine/source/openborscript/status_dial.c",
+  "file": "/workspace/engine/source/openborscript/status_dial.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/openborscript/status_dial.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/openborscript/string.c.o -c /workspace/engine/source/openborscript/string.c",
+  "file": "/workspace/engine/source/openborscript/string.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/openborscript/string.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/pnglib/pngdec.c.o -c /workspace/engine/source/pnglib/pngdec.c",
+  "file": "/workspace/engine/source/pnglib/pngdec.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/pnglib/pngdec.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/pnglib/savepng.c.o -c /workspace/engine/source/pnglib/savepng.c",
+  "file": "/workspace/engine/source/pnglib/savepng.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/pnglib/savepng.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/preprocessorlib/pp_expr.c.o -c /workspace/engine/source/preprocessorlib/pp_expr.c",
+  "file": "/workspace/engine/source/preprocessorlib/pp_expr.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/preprocessorlib/pp_expr.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/preprocessorlib/pp_lexer.c.o -c /workspace/engine/source/preprocessorlib/pp_lexer.c",
+  "file": "/workspace/engine/source/preprocessorlib/pp_lexer.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/preprocessorlib/pp_lexer.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/preprocessorlib/pp_parser.c.o -c /workspace/engine/source/preprocessorlib/pp_parser.c",
+  "file": "/workspace/engine/source/preprocessorlib/pp_parser.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/preprocessorlib/pp_parser.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/ramlib/ram.c.o -c /workspace/engine/source/ramlib/ram.c",
+  "file": "/workspace/engine/source/ramlib/ram.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/ramlib/ram.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/randlib/rand32.c.o -c /workspace/engine/source/randlib/rand32.c",
+  "file": "/workspace/engine/source/randlib/rand32.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/randlib/rand32.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/scriptlib/ImportCache.c.o -c /workspace/engine/source/scriptlib/ImportCache.c",
+  "file": "/workspace/engine/source/scriptlib/ImportCache.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/scriptlib/ImportCache.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/scriptlib/Instruction.c.o -c /workspace/engine/source/scriptlib/Instruction.c",
+  "file": "/workspace/engine/source/scriptlib/Instruction.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/scriptlib/Instruction.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/scriptlib/Interpreter.c.o -c /workspace/engine/source/scriptlib/Interpreter.c",
+  "file": "/workspace/engine/source/scriptlib/Interpreter.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/scriptlib/Interpreter.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/scriptlib/Lexer.c.o -c /workspace/engine/source/scriptlib/Lexer.c",
+  "file": "/workspace/engine/source/scriptlib/Lexer.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/scriptlib/Lexer.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/scriptlib/List.c.o -c /workspace/engine/source/scriptlib/List.c",
+  "file": "/workspace/engine/source/scriptlib/List.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/scriptlib/List.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/scriptlib/Parser.c.o -c /workspace/engine/source/scriptlib/Parser.c",
+  "file": "/workspace/engine/source/scriptlib/Parser.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/scriptlib/Parser.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/scriptlib/ParserSet.c.o -c /workspace/engine/source/scriptlib/ParserSet.c",
+  "file": "/workspace/engine/source/scriptlib/ParserSet.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/scriptlib/ParserSet.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/scriptlib/ScriptVariant.c.o -c /workspace/engine/source/scriptlib/ScriptVariant.c",
+  "file": "/workspace/engine/source/scriptlib/ScriptVariant.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/scriptlib/ScriptVariant.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/scriptlib/ScriptVariantInteger.c.o -c /workspace/engine/source/scriptlib/ScriptVariantInteger.c",
+  "file": "/workspace/engine/source/scriptlib/ScriptVariantInteger.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/scriptlib/ScriptVariantInteger.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/scriptlib/Stack.c.o -c /workspace/engine/source/scriptlib/Stack.c",
+  "file": "/workspace/engine/source/scriptlib/Stack.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/scriptlib/Stack.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/scriptlib/StackedSymbolTable.c.o -c /workspace/engine/source/scriptlib/StackedSymbolTable.c",
+  "file": "/workspace/engine/source/scriptlib/StackedSymbolTable.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/scriptlib/StackedSymbolTable.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/scriptlib/SymbolTable.c.o -c /workspace/engine/source/scriptlib/SymbolTable.c",
+  "file": "/workspace/engine/source/scriptlib/SymbolTable.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/scriptlib/SymbolTable.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/stringptr.c.o -c /workspace/engine/source/stringptr.c",
+  "file": "/workspace/engine/source/stringptr.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/stringptr.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/stristr.c.o -c /workspace/engine/source/stristr.c",
+  "file": "/workspace/engine/source/stristr.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/stristr.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/tracelib2/tracelib2.c.o -c /workspace/engine/source/tracelib2/tracelib2.c",
+  "file": "/workspace/engine/source/tracelib2/tracelib2.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/tracelib2/tracelib2.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/utils.c.o -c /workspace/engine/source/utils.c",
+  "file": "/workspace/engine/source/utils.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/utils.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/gfxlib/bilinear.c.o -c /workspace/engine/source/gfxlib/bilinear.c",
+  "file": "/workspace/engine/source/gfxlib/bilinear.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/gfxlib/bilinear.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/gfxlib/dotmatrix.c.o -c /workspace/engine/source/gfxlib/dotmatrix.c",
+  "file": "/workspace/engine/source/gfxlib/dotmatrix.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/gfxlib/dotmatrix.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/gfxlib/gfx.c.o -c /workspace/engine/source/gfxlib/gfx.c",
+  "file": "/workspace/engine/source/gfxlib/gfx.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/gfxlib/gfx.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/gfxlib/scale2x.c.o -c /workspace/engine/source/gfxlib/scale2x.c",
+  "file": "/workspace/engine/source/gfxlib/scale2x.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/gfxlib/scale2x.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/gfxlib/scanline.c.o -c /workspace/engine/source/gfxlib/scanline.c",
+  "file": "/workspace/engine/source/gfxlib/scanline.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/gfxlib/scanline.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/gfxlib/simple2x.c.o -c /workspace/engine/source/gfxlib/simple2x.c",
+  "file": "/workspace/engine/source/gfxlib/simple2x.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/gfxlib/simple2x.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/gfxlib/tv2x.c.o -c /workspace/engine/source/gfxlib/tv2x.c",
+  "file": "/workspace/engine/source/gfxlib/tv2x.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/gfxlib/tv2x.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/sdl/control.c.o -c /workspace/engine/sdl/control.c",
+  "file": "/workspace/engine/sdl/control.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/sdl/control.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/sdl/joysticks.c.o -c /workspace/engine/sdl/joysticks.c",
+  "file": "/workspace/engine/sdl/joysticks.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/sdl/joysticks.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/sdl/menu.c.o -c /workspace/engine/sdl/menu.c",
+  "file": "/workspace/engine/sdl/menu.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/sdl/menu.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/sdl/sblaster.c.o -c /workspace/engine/sdl/sblaster.c",
+  "file": "/workspace/engine/sdl/sblaster.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/sdl/sblaster.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/sdl/sdlport.c.o -c /workspace/engine/sdl/sdlport.c",
+  "file": "/workspace/engine/sdl/sdlport.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/sdl/sdlport.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/sdl/threads.c.o -c /workspace/engine/sdl/threads.c",
+  "file": "/workspace/engine/sdl/threads.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/sdl/threads.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/sdl/timer.c.o -c /workspace/engine/sdl/timer.c",
+  "file": "/workspace/engine/sdl/timer.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/sdl/timer.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/sdl/video.c.o -c /workspace/engine/sdl/video.c",
+  "file": "/workspace/engine/sdl/video.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/sdl/video.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/sdl/videocommon.c.o -c /workspace/engine/sdl/videocommon.c",
+  "file": "/workspace/engine/sdl/videocommon.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/sdl/videocommon.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/webmlib/halloc/halloc.c.o -c /workspace/engine/source/webmlib/halloc/halloc.c",
+  "file": "/workspace/engine/source/webmlib/halloc/halloc.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/webmlib/halloc/halloc.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/webmlib/movie_playback.c.o -c /workspace/engine/source/webmlib/movie_playback.c",
+  "file": "/workspace/engine/source/webmlib/movie_playback.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/webmlib/movie_playback.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/webmlib/nestegg/nestegg.c.o -c /workspace/engine/source/webmlib/nestegg/nestegg.c",
+  "file": "/workspace/engine/source/webmlib/nestegg/nestegg.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/webmlib/nestegg/nestegg.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/webmlib/samplecvt.c.o -c /workspace/engine/source/webmlib/samplecvt.c",
+  "file": "/workspace/engine/source/webmlib/samplecvt.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/webmlib/samplecvt.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/webmlib/vidplay.c.o -c /workspace/engine/source/webmlib/vidplay.c",
+  "file": "/workspace/engine/source/webmlib/vidplay.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/webmlib/vidplay.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/webmlib/vorbis.c.o -c /workspace/engine/source/webmlib/vorbis.c",
+  "file": "/workspace/engine/source/webmlib/vorbis.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/webmlib/vorbis.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/source/webmlib/yuv.c.o -c /workspace/engine/source/webmlib/yuv.c",
+  "file": "/workspace/engine/source/webmlib/yuv.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/source/webmlib/yuv.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/sdl/opengl.c.o -c /workspace/engine/sdl/opengl.c",
+  "file": "/workspace/engine/sdl/opengl.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/sdl/opengl.c.o"
+},
+{
+  "directory": "/workspace/build.lin.amd64",
+  "command": "/usr/bin/cc -DLINUX -DLOADGL -DOPENGL -DOV_EXCLUDE_STATIC_CALLBACKS -DSDL=1 -DWEBM -I/usr/include/SDL2 -I/workspace/engine -I/workspace/engine/source -I/workspace/engine/source/gamelib -I/workspace/engine/source/gfxlib -I/workspace/engine/source/openborscript -I/workspace/engine/source/pnglib -I/workspace/engine/source/preprocessorlib -I/workspace/engine/source/ramlib -I/workspace/engine/source/randlib -I/workspace/engine/source/scriptlib -I/workspace/engine/source/tracelib2 -I/workspace/engine/source/webmlib -I/workspace/engine/sdl  -Wall -fsigned-char -Wno-stringop-truncation -Wno-maybe-uninitialized -Wno-unused-result -Wno-void-pointer-to-enum-cast -Wno-deprecated-declarations -Werror -O3 -DNDEBUG -std=gnu99 -o CMakeFiles/OpenBOR.dir/engine/sdl/loadgl.c.o -c /workspace/engine/sdl/loadgl.c",
+  "file": "/workspace/engine/sdl/loadgl.c",
+  "output": "CMakeFiles/OpenBOR.dir/engine/sdl/loadgl.c.o"
+}
+]

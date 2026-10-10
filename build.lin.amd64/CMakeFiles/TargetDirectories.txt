@@ -1,0 +1,4 @@
+/workspace/build.lin.amd64/CMakeFiles/VersionInfo.dir
+/workspace/build.lin.amd64/CMakeFiles/OpenBOR.dir
+/workspace/build.lin.amd64/CMakeFiles/edit_cache.dir
+/workspace/build.lin.amd64/CMakeFiles/rebuild_cache.dir

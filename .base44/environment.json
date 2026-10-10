@@ -1,0 +1,7 @@
+{
+  "previewPort": 3000,
+  "healthPath": "/",
+  "startCommand": "docker compose -f docker-compose.base44.yml run --rm build",
+  "secrets": [],
+  "notes": "OpenBOR is a native C/SDL2 game engine, not a web application. It compiles to a desktop executable (engine/releases/LINUX/OpenBOR). There is no web server to serve on port 3000, so the Base44 web preview cannot display a running instance. The docker-compose.base44.yml build service is a one-shot compiler that verifies the project builds successfully."
+}
